@@ -1,6 +1,6 @@
 # CNS105
 this is a test only use for credit card reader  
-## Repo by: Karambe Read *CCR* this is my first repository
+## Repo by:   Karambe Read *CCR* this is my first repository
 ### Repo: Make sure you align your phone to the   
 **CCR**
 ~~Mmamadou Karambe~~  
